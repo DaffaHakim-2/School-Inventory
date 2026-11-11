@@ -1,0 +1,8 @@
+/* Bootstrap Icons */
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+/* OverlayScrollbars */
+@import "overlayscrollbars/styles/overlayscrollbars.css";
+
+/* AdminLTE 4 */
+@import "admin-lte/dist/css/adminlte.min.css";
